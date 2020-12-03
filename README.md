@@ -21,7 +21,7 @@ in
 ```
 Now let’s plot the data using ArcGIS maps for power bi
 
-<img src="/img/capture1.png" alt="delivery distrubution" width="800" height="800">
+<img src="/img/capture1.PNG" alt="delivery distrubution" width="800" height="800">
 
 Now we are averaging the data using simple rounding method also i will be rounding to one digit to make it more simple. Incase you need the DAX code:
 ```javascript
@@ -36,7 +36,7 @@ in
 ```
 Let’s plot the data and assign the drive time of 20 minutes.This feature will be in the map tools (left-top corner):
 
-<img src="/img/capture2.png" alt="delivery distrubution" width="800" height="800">
+<img src="/img/capture2.PNG" alt="delivery distrubution" width="800" height="800">
 
 
 ## Findings and Suggestion
