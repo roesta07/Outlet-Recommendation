@@ -41,8 +41,8 @@ Let’s plot the data and assign the drive time of 20 minutes.This feature will 
 
 ## Findings and Suggestion
 -	We can see all the probable locations for our new outlet colored in purple. We can see the big patches in the middle, it can be because of the frequency of the orders or could have accessible roads.
--	 There are more than three patches of purple or more than 3 suggestions for our new outlook; but I would suggest the restaurant to open only two outlets where the purple color overlap and gets darker.
--	Although we cannot ignore other spot suggested as they can be the next potential but further analysis has to be done to answer questions related to cost, accessibility to road etc.
+-	 There are more than three patches of purple or more than 3 suggestions for our new outlook; but I would suggest the restaurant to open only two outlets where the purple color overlap and gets darker as it covers most of the orders.
+-	Although we cannot ignore other spot suggested as they can be the potential yet further analysis has to be done to answer questions related to cost, accessibility to road etc.
 
 
 
