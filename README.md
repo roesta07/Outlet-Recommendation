@@ -21,7 +21,7 @@ in
 ```
 Now let’s plot the data using ArcGIS maps for power bi
 
-<img src="/img/capture1.PNG" alt="delivery distrubution" width="800" height="800">
+<img src="/img/capture1.PNG" alt="delivery distrubution" width="800" height="600">
 
 Now we are averaging the data using simple rounding method also i will be rounding to one digit to make it more simple. Incase you need the DAX code:
 ```javascript
